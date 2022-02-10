@@ -5,6 +5,8 @@ description: "Hello World"
 ---
 
 Elden Ring is coming out!
+
+[:fireworks; A guide for Martin :fireworks:]https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 # Subheading
 
 
