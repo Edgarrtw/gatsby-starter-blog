@@ -4,10 +4,10 @@ date: "2022-02-10T22:12:03.284Z"
 description: "Hello World"
 ---
 
-Elden Ring is coming out!
+Elden Ring is coming out! :fireworks:
 
 
-[:fireworks:h A guide for Martin :fireworks:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[A guide for Martin](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 # Subheading
 
 
